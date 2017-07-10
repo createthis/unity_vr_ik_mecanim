@@ -11,3 +11,7 @@ Here's what it looks like:
 ![character waving image](http://i.imgur.com/hC33RQi.gif "Waving")
 
 I **highly recommend** you buy and use the excellent [Final IK asset from the Unity Asset Store](https://www.assetstore.unity3d.com/#!/content/14290?aid=1100l35sb) instead. It works much better for this purpose.
+
+[Assets/Scripts/IKControl.cs](https://github.com/createthis/unity_vr_ik_mecanim/blob/master/Assets/Scripts/IKControl.cs) is the heart of this demo. You'll find it on the jesse object in the scene.
+It was created by following the (rather sparse) [Unity IK manual page](https://docs.unity3d.com/Manual/InverseKinematics.html).
+I borrowed a t-pose from Unity's UMA asset and created a mecanim animator controller that uses the t-pose and enables IK pass through. That should be all you need to know to get started hacking.
