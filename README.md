@@ -10,6 +10,11 @@ Here's what it looks like:
 
 ![character waving image](http://i.imgur.com/hC33RQi.gif "Waving")
 
+or watch the video:
+
+[![Mecanim VR IK Youtube Video Demo](https://img.youtube.com/vi/7y9GAVpCW_c/0.jpg)](https://www.youtube.com/watch?v=7y9GAVpCW_c)
+
+
 I **highly recommend** you buy and use the excellent [Final IK asset from the Unity Asset Store](https://www.assetstore.unity3d.com/#!/content/14290?aid=1100l35sb) instead. It works much better for this purpose.
 I have a video showing off the Final IK version of this scene here:
 
