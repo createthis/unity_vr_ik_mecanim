@@ -7,6 +7,7 @@ This is just a demo project so you can get an idea what Mecanim is capable of. U
 Fuse character position is taken from the hip tracker.
 
 Here's what it looks like:
+
 ![character waving image](http://i.imgur.com/hC33RQi.gif "Waving")
 
 I **highly recommend** you buy and use the excellent [Final IK asset from the Unity Asset Store](https://www.assetstore.unity3d.com/#!/content/14290?aid=1100l35sb) instead. It works much better for this purpose.
