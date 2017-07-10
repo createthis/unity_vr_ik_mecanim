@@ -11,6 +11,10 @@ Here's what it looks like:
 ![character waving image](http://i.imgur.com/hC33RQi.gif "Waving")
 
 I **highly recommend** you buy and use the excellent [Final IK asset from the Unity Asset Store](https://www.assetstore.unity3d.com/#!/content/14290?aid=1100l35sb) instead. It works much better for this purpose.
+I have a video showing off the Final IK version of this scene here:
+
+[![Final IK Youtube Video Demo](https://img.youtube.com/vi/T6gIRivNgFE/0.jpg)](https://www.youtube.com/watch?v=T6gIRivNgFE)
+
 
 [Assets/Scripts/IKControl.cs](https://github.com/createthis/unity_vr_ik_mecanim/blob/master/Assets/Scripts/IKControl.cs) is the heart of this demo. You'll find it on the jesse object in the scene.
 It was created by following the (rather sparse) [Unity IK manual page](https://docs.unity3d.com/Manual/InverseKinematics.html).
